@@ -16,8 +16,11 @@ I am proficient in several programming languages, including JavaScript, HTML, CS
 Feel free to reach out to me through:
 
 linkedin.com/in/sara-pinzon-01548192
+
 https://github.com/Sarapr27
+
 EMAIL: sarapr.2702@gmail.com
+
 PHONE: +57 304 347 1855
 
 I'm open to collaborations, discussions, and opportunities to contribute my skills to projects that align with my expertise. Let's connect and explore the possibilities together!
