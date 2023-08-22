@@ -1,9 +1,23 @@
 ### Hi there 👋
 
-As a Full Stack Developer, I merge my development experience with my background as a Professional in Modern Languages, focused on organizational communication and business translation. As a comprehensive developer, my passion for creating technological solutions converges with my ability to communicate effectively.
+### Who I Am:
+I am a Full Stack Developer with a diverse background in Professional Modern Languages, specializing in organizational communication and business translation. My expertise combines technical development skills with effective communication abilities.
 
-My command over various programming languages, including JavaScript, HTML, CSS, along with my expertise in technologies like React, Redux, Node.js, Express, and Postgresql, enables me to build complete and dynamic web applications. My teamwork and project leadership skills are reflected in my innovative approach and problem-solving abilities, ensuring the timely delivery of effective solutions.
+### What I Do:
+In my role, I create comprehensive technological solutions by merging my development experience with my communication skills. As a Full Stack Developer, I build dynamic and complete web applications. I bring a problem-solving mindset and an innovative approach to my projects, ensuring the timely delivery of effective solutions. My communication and customer service experience enables me to design user-friendly interfaces and maintain clear interactions within teams.
 
-Furthermore, my experience in communication and customer service translates into clear and effective communication both in team interactions and in designing intuitive user interfaces. My proactive and results-oriented focus, combined with my adaptability to new technologies, allows me to deliver scalable and robust applications.
+### Where I'm Headed:
+I aim to continue expanding my knowledge and expertise in the field of Full Stack development. I'm committed to contributing to the success of challenging projects and working collaboratively to bring ideas from concept to implementation. With a focus on innovation and a combination of technical and communication skills, I aspire to make a positive impact in the tech industry.
 
-As a Full Stack developer, I aspire to continue expanding my knowledge, contributing to the success of challenging projects, and collaborating to take ideas from conception to implementation. With my unique blend of development and communication skills, I am committed to making a positive impact in the tech industry.
+### Technologies I Use:
+I am proficient in several programming languages, including JavaScript, HTML, CSS. I possess expertise in technologies like React, Redux, Node.js, Express, and Postgresql. This skill set empowers me to create robust and scalable web applications that cater to dynamic user needs. My adaptability to emerging technologies enables me to stay current and continue delivering cutting-edge solutions.
+
+### Get in Touch!
+Feel free to reach out to me through:
+
+linkedin.com/in/sara-pinzon-01548192
+https://github.com/Sarapr27
+EMAIL: sarapr.2702@gmail.com
+PHONE: +57 304 347 1855
+
+I'm open to collaborations, discussions, and opportunities to contribute my skills to projects that align with my expertise. Let's connect and explore the possibilities together!
