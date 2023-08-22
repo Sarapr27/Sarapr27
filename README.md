@@ -14,6 +14,7 @@ I am proficient in several programming languages, including JavaScript, HTML, CS
 
 ### 🚀 Featured Projects
 Group Final Project - ToolVerse
+<br></br>
 E-commerce for tools
 Technologies: HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL, PostgreSQL, Third-party Authentication (Google), Payment Methods (Mercado Pago, Paypal), Agile Methodology (SCRUM)
 Collaborators: Sara Pinzon, Daniel Quintero, Juan Zubiri, Cecilia Moroni, Jose Lopez, Diego Campos
@@ -21,6 +22,7 @@ Link: https://clienttoolverse-production.up.railway.app/
 Repository: https://github.com/Sarapr27/clientToolVerse https://github.com/Sarapr27/apiToolVerse
 
 Individual Project - Videogames
+<br></br>
 Detailed information about Videogames
 Technologies: HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL, PostgreSQL
 Repository: https://github.com/ngpalma/Countries
