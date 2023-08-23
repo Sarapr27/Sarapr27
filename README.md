@@ -19,7 +19,7 @@ E-commerce for tools
 
 Technologies: HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL, PostgreSQL, Third-party Authentication (Google), Payment Methods (Mercado Pago, Paypal), Agile Methodology (SCRUM)
 
-Collaborators: Sara Pinzon, Daniel Quintero, Juan Zubiri, Cecilia Moroni, Jose Lopez, Diego Campos
+Collaborators: Nicolas Palma, Daniel Quintero, Juan Zubiri, Cecilia Moroni, Jose Lopez, Diego Campos
 
 Link: https://clienttoolverse-production.up.railway.app/
 
