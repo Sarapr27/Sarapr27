@@ -27,7 +27,7 @@ Repository: https://github.com/Sarapr27/clientToolVerse https://github.com/Sarap
 
 Individual Project - Videogames
 <br></br>
-Detailed information about Videogames
+Development and design of a video game app that included search, filtering, sorting, and creation functionalities.
 
 Technologies: HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL, PostgreSQL
 
